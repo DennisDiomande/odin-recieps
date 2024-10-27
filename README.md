@@ -1,4 +1,4 @@
-# odin-recieps
+# odin-recipes
 About the Project
 
 odin-recipes is a foundational project as part of my web development journey with The Odin Project (TOP). This project focuses on building and structuring HTML pages to display a simple collection of recipes. The purpose is to create a main index page that links to a few individual recipe pages, showcasing my skills in HTML structuring and linking, while applying the foundational concepts I've learned so far.
